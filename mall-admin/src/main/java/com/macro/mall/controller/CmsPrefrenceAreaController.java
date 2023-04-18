@@ -19,7 +19,7 @@ import java.util.List;
  * Created by macro on 2018/6/1.
  */
 @Controller
-@Api(tags = "CmsPrefrenceAreaController")
+@Api(tags = "商品优选管理")
 @Tag(name = "CmsPrefrenceAreaController", description = "商品优选管理")
 @RequestMapping("/prefrenceArea")
 public class CmsPrefrenceAreaController {

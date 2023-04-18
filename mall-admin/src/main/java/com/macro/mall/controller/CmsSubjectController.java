@@ -21,7 +21,7 @@ import java.util.List;
  * Created by macro on 2018/6/1.
  */
 @Controller
-@Api(tags = "CmsSubjectController")
+@Api(tags = "商品专题管理")
 @Tag(name = "CmsSubjectController", description = "商品专题管理")
 @RequestMapping("/subject")
 public class CmsSubjectController {
